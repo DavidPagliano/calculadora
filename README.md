@@ -24,5 +24,5 @@
 #Html
  Pagina de estudio: https://lenguajehtml.com/html/cabecera/que-son-etiquetas-cabecera/
 
- #Css
+#Css
  Pagina de estudio: https://developer.mozilla.org/es/docs/Learn/CSS/First_steps/What_is_CSS
