@@ -18,3 +18,11 @@
 
 ## tercer paso
 .... A la espera de los avances que hagan
+
+#Recursos de teoria para estos primeros pasos: 
+
+#Html
+ Pagina de estudio: https://lenguajehtml.com/html/cabecera/que-son-etiquetas-cabecera/
+
+ #Css
+ Pagina de estudio: https://developer.mozilla.org/es/docs/Learn/CSS/First_steps/What_is_CSS
