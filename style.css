@@ -1,0 +1,27 @@
+body {
+    background-color: green;
+}
+.contenedor {
+    height: 100%;
+    width: 100%;
+    background-color: #818a37;
+}
+
+#resultado{
+    width: 900px;
+    background-color: #3ba786;
+}
+
+.botones {
+    width: 800px;
+    background-color: #3b7fa7;
+}
+
+.cuentas {
+    width: 700px;
+    background-color: #a0a73b;
+}
+.numeros {
+    width: 700px;
+    background-color: #883ba7;
+}
