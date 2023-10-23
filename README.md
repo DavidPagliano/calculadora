@@ -26,3 +26,16 @@
 
 ## Css
  Pagina de estudio: https://developer.mozilla.org/es/docs/Learn/CSS/First_steps/What_is_CSS
+
+# /**************************************************/
+
+# Clase de estilo
+
+## Flebox 
+  pagina de estudio: https://developer.mozilla.org/es/docs/Learn/CSS/CSS_layout/Flexbox
+
+## Responsive 
+  pagina de estudio: https://developer.mozilla.org/es/docs/Learn/CSS/CSS_layout/Responsive_Design
+
+## Reset
+  pagina de estudio: https://www.kodetop.com/diferencias-entre-reset-css-y-normalize-css/
