@@ -4,30 +4,39 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>calculadora</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="/css/reset.css">
+    <link rel="stylesheet" href="/css/style.css">
     <script src="index.js"></script>
 </head>
 <body>
-    <div class="contenedor">
-        <div id="resultado">resultado</div>
-        <div class="botones">
-            <div class="cuentas">
-                <div>%</div>
-                <div>X</div>
-                <div>-</div>
-                <div>+</div>
-            </div>
-            <div class="numeros">
-                <div>9</div>
-                <div>8</div>
-                <div>7</div>
-                <div>6</div>
-                <div>5</div>
-                <div>4</div>
-                <div>3</div>
-                <div>2</div>
-                <div>1</div>
-                <div>0</div>
+    <div class="contenedor-exterior">
+        <div class="contenedor-interior">
+            <div><input type="text" readonly id="resultado"></div>
+            <div class="botones">
+                <div class="cuentas">
+                    <div class="cuenta"><button type="button">%</button></div>
+                    <div class="cuenta"><button type="button">X</button></div>
+                    <div class="cuenta"><button type="button">-</button></div>
+                    <div cueenta class="cueenta"><button type="button">+</button></div>
+                </div>
+                <div class="numeros">
+                    <div><button type="button">9</button></div>
+                    <div><button type="button">8</button></div>
+                    <div><button type="button">7</button></div>
+                    <div><button type="button">6</button></div>
+                    <div><button type="button">5</button></div>
+                    <div><button type="button">4</button></div>
+                    <div><button type="button">3</button></div>
+                    <div><button type="button">2</button></div>
+                    <div><button type="button">1</button></div>
+                </div>
+                <div>
+                    <div><button type="button">0</button></div>
+                    <div class="limpiar"><button type="button">AC</button></div>
+                    <div class="Igual"><button type="button">=</button></div>
+                    
+                </div>
+                
             </div>
         </div>
     </div>

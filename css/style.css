@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: green;
+}
+
+.contenedor {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    height: 100%;
+    width: 100%;
+    background-color: #818a37;
+}
+
+#resultado{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    width: 800px;
+    border: solid 5px #000000;
+
+    background-color: #3ba786;
+}
+
+.botones {
+    width: 800px;
+    border: solid 5px #000000;
+    background-color: #3b7fa7;
+}
+
+.cuentas {
+    width: 700px;
+    border: solid 1px #000000;
+    background-color: #a0a73b;
+}
+.numeros {
+    width: 700px;
+    border: solid 1px #000000;
+    background-color: #883ba7;
+}
+.igual {
+    width: 700px;
+    border: solid 1px #000000;
+    background-color: #a7853b;
+}
